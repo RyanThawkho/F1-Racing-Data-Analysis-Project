@@ -6,17 +6,17 @@ This project analyzes Formula 1 data using Python, SQL, and Power BI to uncover 
 
 ## Process
 1. **Data Collection**: Downloaded dataset from Kaggle.
-2. **Data Cleaning**: Used Python (Pandas) to clean and preprocess the data.
+2. **Data Cleaning**: Used Python to clean and preprocess the data.
 3. **Database Management**: Imported tables into Microsoft SQL Server and ran queries for analysis.
 4. **Visualization**: Created interactive dashboards in Power BI.
 5. **Presentation**: Compiled findings into a storytelling presentation.
 
 ## Tools Used
-- **Python** (Pandas, NumPy)
+- **Python** Pandas
 - **SQL** (Microsoft SQL Server)
 - **Power BI**
 - **Git & GitHub**
-- **Jupyter Notebooks**
+- **Google Colab**
 
 ## Insights & Findings
 - Ferrari dominated the V10 era, but its success declined in later eras.
